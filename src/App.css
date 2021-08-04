@@ -1,0 +1,63 @@
+.App{
+background-color: rgb(24, 24, 24);
+}
+.first{
+    padding-top: 120px;
+    padding-left: 50px;
+    font-size: 3.5rem;
+   color: white;
+}
+.seconde{
+    padding-left: 50px;
+    font-size: 1.3rem;
+    width: 700px;
+    color: white;
+}
+.footer{
+    
+    padding-top: 120px;
+    padding-bottom: 40px;
+    font-size: 3.5rem;
+   color: white;
+    font-size: 3rem;
+   color: white;
+     text-align: center;
+    }
+    
+    .imgfooter{
+        width: 77.5rem;
+    }
+    .pfooter{
+                font-size: 1.3rem;
+            margin: 50px;
+    }
+   
+    .ajou{
+    
+        padding-top: 120px;
+        padding-bottom: 40px;
+        font-size: 3.5rem;
+       color: white;
+        font-size: 3rem;
+       color: white;
+         text-align: center;
+        }
+        .butfooter{
+            width: 200px;
+            height: 50px;
+        }
+        
+        .user{
+            display: inline;
+          text-align: center;
+            list-style: none;
+            margin-top: 100rem;
+        }
+        .espfig1{
+            margin: 17px;
+            
+        }
+
+.heni{
+        text-align:"center"
+    }

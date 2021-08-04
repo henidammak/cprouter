@@ -1,0 +1,67 @@
+.recherche{
+    
+    
+  text-align: center;
+}
+
+
+
+.input{
+    background-color: black;
+    height:39px;
+    
+    border: 2px solid rgb(187, 45, 59);
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  padding-bottom: 6px;
+}
+.input[type=text]{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+.add{
+  height: 40px;
+  width: 150px;
+
+}
+.bouton3{
+text-align: center;
+}
+
+
+#case{
+  background-color: black;
+  height:39px;
+  
+  border: 2px solid rgb(187, 45, 59);
+border-radius: 4px;
+margin-top: 10px;
+margin-bottom: 50px;
+padding-bottom: 6px;
+}
+#case[type=text]{
+  color: white;
+}
+#case[type=number]{
+color: white;
+}
+.heni[type=text]{
+color: white;
+}
+
+.Case{
+background-color: rgb(33, 37, 41);
+color: rgb(187, 45, 59);
+border: 2px solid rgb(187, 45, 59);
+border-radius: 4px;
+
+}

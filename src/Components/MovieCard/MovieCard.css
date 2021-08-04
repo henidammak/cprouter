@@ -1,0 +1,59 @@
+.fig{
+    text-align: center;
+    list-style: none;
+    margin-right: 14px;
+}
+.third{
+    text-align: start;
+    padding-left: 50px;
+    font-size: 1.3rem;
+    width: 700px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    
+}
+.espfig{
+    
+    margin-left:13px ;
+}
+
+.drop-menu {
+    display: none;
+    background-color: black;
+    width:400px;
+    height:250px;
+   margin-left: -50px;
+   padding-right: 20px;
+   line-height: 40px;
+   
+  }
+  .menu-item:hover .drop-menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    color: #ababab;
+    
+  }
+  .drop-menu-item {
+    list-style: none;
+  }
+  .menu-item:hover {
+    color: red;
+    cursor: pointer;
+  }
+  .heni{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+  }
+  .bande{
+    
+    display: flex;
+    justify-content: center;
+   
+  }
+  
+  
+
